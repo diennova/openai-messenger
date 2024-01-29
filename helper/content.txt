@@ -1,0 +1,91 @@
+Welcome to NovaSquare! 
+LEVEL 1 - EXPLORER 1 - WEDO
+Wedo Level 1 Summer 2023
+KHAI GIẢNG:01-11-2023
+KẾT THÚC:31-01-2024
+ĐỊA ĐIỂM HỌC
+CN1. 47 Hải Hồ - Hải Châu - Đà NẵngView  
+CN2. 35 Cao Thắng - Hải Châu - Đà NẵngView  
+
+Số điện thoại công ty: 0967468703
+Website : http://www.stemsquare.vn
+ 
+Mô tả
+Chương trình STEM Robotics – Level 1 là chương trình dành cho các bạn mới tham gia học tập về kiến thức STEM. Tại môn học này, các em sẽ được học theo một quy trình liên môn của mỗi buổi học: Ý tưởng -> Thiết kế -> Tạo lập -> Chia sẻ Như vậy với quá trình học, các em đã từ ý tưởng, vẽ, lắp ráp, lập trình và thuyết trình, nên các em đã vận dụng đầy đủ các kỹ năng của môn học STEM này.
+Chi tiết
+Trung tâm STEM SQUARE hiện biên soạn dựa theo giáo trình chuẩn của LEGO EDUCATION, bao gồm có 5 level ở cấp bậc tiểu học.
+Level 1: Explorer – dành cho lứa tuổi 06 tuổi (lớp 1)
+Level 2: Explorer – dành cho lứa tuổi 07 tuổi (lớp 2) và đã học qua level 1
+Level 3: Creator – dành cho lứa tuổi 08-10 tuổi (lớp 3) – có thể đã qua level 1, 2 hoặc không cần.
+Level 4: Creator – dành cho lứa tuổi 08-10 tuổi (lớp 4) – có thể đã qua level 1, 2 và level 3
+Level 5: Creator – dành cho lứa tuổi 08-10 tuổi (lớp 5-thi đấu) – có thể đã qua level 1, 2 và level 3, 4
+Chương trình STEM Robotics – Level 1 là chương trình dành cho các bạn mới tham gia học tập về kiến thức STEM. Tại môn học này, các em sẽ được học theo một quy trình liên môn của mỗi buổi học:
+Bước 1: Ban đầu các em sẽ được giáo viên cho xem về ý tưởng, chủ đề của bài học thông qua video
+Bước 2: Các em sẽ thể hiện ý tưởng bằng hình thành những kỹ năng vẽ lại các sự việc liên quan, hoặc những chi tiết mà các em vừa xem video ở bước 1
+Bước 3: Dùng thiết bị Lego để thiết lập robot, thực hiện nhiệm vụ của bài học. ví dụ với bài học là chú ếch thì các em cần phải thiết lập chú ếch và các chi tiết cho chú ếch
+Bước 4. Dùng iPad lập trình kéo thả rất đơn giản, nhằm cho robot thực hiện các nhiệm vụ cần làm.
+Bước 5. Các em phải chia sẻ, rút kinh nghiệm cho các bạn bằng cách thuyết trình về các công việc của mình đã làm.
+Như vậy với quá trình học, các em đã từ ý tưởng, vẽ, lắp ráp, lập trình và thuyết trình, nên các em đã vận dụng đầy đủ các kỹ năng của môn học STEM này.
+Tài liệu học
+1 Giới thiệu về môn học Stem Robotics
+GIỚI THIỆU VỀ STEM STEM LÀ GÌ? • STEM là viết tắt của các từ Science (khoa học), Technology (công nghệ), Engineering (kỹ thuật) và Maths (toán học). Vậy bản chất giáo dục STEM là sự kết hợp các kỹ năng cần thiết liên quan đến nhiều lĩnh vực (khoa học, công nghệ, kỹ thuật, toán học) vào để người học có thể vận hành và giải quyết các vấn đề được tốt hơn. Giáo dục STEM là gì? • Là giáo dục làm sao người học có thể hình thành từ ý tưởng, kỹ năng giải quyết vấn đề với sự kết hợp các kiến thức học được thông qua những sự việc, vấn đề cụ thể. Đây không chỉ là một cách dạy cụ thể cho một môn học nào cả như Robot hay Toán học, mà là mục tiêu đào tạo để người học có đầy đủ kỹ năng và phát triển trong thế giới công nghệ và xu hướng thời đại công nghiệp 4.0 hiện nay.
+2 Chiếc quạt máy
+Quạt điện hay quạt máy là một thiết bị dẫn động bằng điện được dùng để tạo ra các luồng gió nhằm phục vụ lợi ích cho con người (nhất là giảm sức nóng của cơ thể, hạ nhiệt, giúp con người cảm thấy mát, thoải mái), thông gió, thoát khí, làm mát, hoặc bất kỳ tác động liên quan đến không khí trong môi trường sống.
+3 Di chuyển Vệ tinh
+4 Robot trinh thám
+5 Robot thám hiểm tự hành Milo
+6 Thiết bị cảm biến chuyển động của Milo
+7 Thiết bị cảm biến góc nghiêng của Milo
+8 Sự hợp tác của các Milo
+9Lực kéo
+10Tốc độ
+11Kết cấu vững chắc
+12Quá trình biến đổi của loài ếch
+13Ôn tập học kỳ 1
+14Kiểm tra học kỳ 1
+15Bài mở rộng
+16Ốc sên
+Giới thiệu về ốc sên
+17Thực vật và tác nhân gây thụ phấn
+18Ngừa lũ
+19Tiếp tế và cứu hộ
+20 Phân loại để tái chế
+21Trạm vũ trụ mặt trăng
+22Cánh tay nhân tạo
+23Truyền tín hiệu
+24Cảnh báo sự hoạt động của núi lửa
+25Ôn tập
+26Kiểm tra cuối khóa học kỳ 2
+
+
+LỊCH HỌC, LỊCH KHAI GIẢNG
+[STEM SQUARE] LỊCH KHAI GIẢNG THÁNG 1/2024
+Ghi chú:
+Lịch này áp dụng cho tuần
+Lịch học buổi sáng là từ 8h00 đến 11h00.
+Lịch học buổi chiều là từ 14h00 đến 17h00.
+Lịch học buổi tối là từ 17h30 đến 20h30.
+Lịch học chi tiết cho từng độ tuổi và khóa học:
+Trẻ em từ 6-9 tuổi:
+STEM: Học về khoa học, công nghệ, kỹ thuật và toán học.
+Robotics WeDo: Học về lập trình robot sử dụng bộ kit WeDo.
+Thời gian lịch có thể học: Buổi tối thứ 2,3,4,5 và buổi sáng thứ 7
+Trẻ em từ 6-9 tuổi:
+Robotics FLL-2023-24: Học về lập trình robot sử dụng bộ kit FLL-2023-24.
+Thời gian lịch có thể học: Buổi tối thứ 2,3,4,5, và buổi chiều thứ 7
+
+Thiếu niên từ 9-12 tuổi:
+STEM: Học về khoa học, công nghệ, kỹ thuật và toán học.
+Robotics Spike: Học về lập trình robot sử dụng bộ kit Spike.
+Thời gian lịch có thể học: Buổi tối thứ 2,3,4,5 , buổi sáng và chiều thứ 7
+
+Thiếu niên và người lớn từ 9-19 tuổi:
+STEM: Học về khoa học, công nghệ, kỹ thuật và toán học.
+Robotics EV3: Học về lập trình robot sử dụng bộ kit EV3.
+Thời gian lịch có thể học: Buổi tối (từ 17h30 – 19h00) thứ 2,3,4,5 , buổi sáng thứ 7
+Thiếu niên và người lớn từ 8-12 tuổi:
+Lập trình Scratch: Học về lập trình Scratch.
+Thời gian lịch có thể học: Buổi tối thứ 2,3,4,5, buổi sáng(từ 8h00 - 9h30)  và chiều thứ 7( từ 14h00-15h30)
+Thiếu niên và người lớn từ 12-19 tuổi:
+Lập trình Python: Học về lập trình Python.
+Thời gian lịch có thể học: Buổi tối thứ 2,3,4,5, buổi sáng(từ 8h00 - 9h30)  và chiều thứ 7( từ 14h00-15h30)
