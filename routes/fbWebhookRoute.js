@@ -38,6 +38,7 @@ router.post('/', async (req, res) => {
     let senderId = body.entry[0].messaging[0].sender.id;
     let query = body.entry[0].messaging[0].message.text;
     const host = req.hostname;
+    console.log(">>>host :", host)
     let requestUrl = `https://${host}/sendMessage`;
     callSendMessage(requestUrl, senderId, query)
     console.log(senderId, query);

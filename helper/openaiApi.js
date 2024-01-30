@@ -19,9 +19,9 @@ let messages = [
     "role": "system",
     "content": fileContent
   }
-  
-  
-  ];
+
+
+];
 
 const chatCompletion = async (prompt) => {
   try {
@@ -30,7 +30,7 @@ const chatCompletion = async (prompt) => {
 
     const response = await openai.chat.completions.create({
       messages: messages,
-      model: "gpt-3.5-turbo",
+      model: "gpt-3.5-turbo-16k",
     });
 
     console.log(messages);
@@ -55,7 +55,7 @@ const chatCompletion = async (prompt) => {
   } catch (error) {
     return {
       status: 0,
-      response: 'Please check OpenAI API key.'
+      response: error
     };
   }
 };
